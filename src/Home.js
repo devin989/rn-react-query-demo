@@ -37,7 +37,7 @@ const Home = () => {
     return (
         <View style={styles.container}>
             <Appbar.Header>
-                <Appbar.Content title="Rick and Morty" subtitle="All Characters" />
+                <Appbar.Content title="React Query" subtitle="All Characters" />
 
             </Appbar.Header>
 
